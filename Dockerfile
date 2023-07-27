@@ -1,4 +1,4 @@
-FROM 192.168.10.61:5000/python:3.11-bullseye
+FROM python:3.11-bullseye
 
 # LABEL repository="https://github.com/hivaze/PrivateGPTBot"
 # LABEL website="https://github.com/hivaze/PrivateGPTBot"
